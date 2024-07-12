@@ -1,3 +1,7 @@
 MAKE SURE TO PASTE MAIN.DART IN YOUT LIB FOLDER OF YOUR FLUTTER PROJECT
 
 NAME YOUR FLUTTER PROJECT AS NAMER_APP.
+
+
+
+![image](https://github.com/user-attachments/assets/7d43b0c2-a437-4ac6-bab7-3ca78d59c857)
